@@ -11,10 +11,11 @@
 	<groupId>com.lanchonete</groupId>
 	<artifactId>cachorros-quentes-gourmet</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>cachorros-quentes-gourmet</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>20</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
