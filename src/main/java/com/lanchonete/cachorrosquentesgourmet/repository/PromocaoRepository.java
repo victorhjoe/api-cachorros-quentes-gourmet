@@ -17,7 +17,7 @@ public class PromocaoRepository {
 
     private LancheRepository lancheRepository;
     private List<Promocao> promocoes = new ArrayList<Promocao>();
-    private Integer ultimoId = 0;
+    private Integer ultimoId = 3;
 
     public PromocaoRepository(){
         lancheRepository = new LancheRepository();
